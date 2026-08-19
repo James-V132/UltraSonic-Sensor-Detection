@@ -6,6 +6,6 @@
   + 10-5 in. -> LEDs Flicker: Every 1/2 Second, Buzzer Frequency 1000Hz
   + 4-1 in. -> LEDs Flicker: Every 1/4 Second, Buzzer Frequency 1250Hz
 ### Wiring Diagram
-![Screenshot of wiring physically done](images/Wiring_Diagram-Joystick_Segment_Display.png)
+![Screenshot of wiring physically done](images/USS_Detection_bb.jpg)
 ### Credit
 + Instructed the wiring and the basics of the Ultrasonic Sensor: [Video]([https://www.youtube.com/watch?v=9z5FsTzYWE4](https://www.youtube.com/watch?v=n-gJ00GTsNg))
