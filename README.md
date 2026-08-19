@@ -7,5 +7,7 @@
   + 4-1 in. -> LEDs Flicker: Every 1/4 Second, Buzzer Frequency 1250Hz
 ### Wiring Diagram
 ![Screenshot of wiring physically done](images/USS_Detection_bb.jpg)
+### Disclaimer
+My Arduino pins output a voltage of 3.3V which is why the Blue LED can be directly connected without resistors while the Red LED needs Voltage Division
 ### Credit
-+ Instructed the wiring and the basics of the Ultrasonic Sensor: [Video]([https://www.youtube.com/watch?v=9z5FsTzYWE4](https://www.youtube.com/watch?v=n-gJ00GTsNg))
+Instructed the wiring and the basics of the Ultrasonic Sensor: [Video](https://www.youtube.com/watch?v=n-gJ00GTsNg)
